@@ -1,3 +1,4 @@
+![Python Foundations to Predictive Modeling](python_banner.png)
 # Python Foundations to Predictive Modeling
 
 This beginner-friendly notebook introduces Python programming for students who are new to coding and data science.
